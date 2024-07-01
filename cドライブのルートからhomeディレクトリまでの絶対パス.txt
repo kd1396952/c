@@ -1,0 +1,22 @@
+c:ドライブのルートからhomeディレクトリまでの絶対パス
+c;\users\home
+c;\users\home\documents\Webデザイン基礎
+c;\
+
+カレントディレクトリからの目的のディレクトリまでの道順
+自分自身は書かない。または、で表す。
+カレントディレクトリはhomeディレクトリとする
+
+documents
+documents\Webデザイン基礎
+.\documents
+.\documents\Webデザイン基礎
+..\
+..\..
+
+md test10
+md test11
+md test12
+md test13
+md test14
+md test15

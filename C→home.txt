@@ -1,0 +1,7 @@
+C:→home
+C:\Users\uotaadocumentdir.txt
+\Users\uotaa\Documents\dir.txt
+
+> 標準出力を切り替える(greater than GT)
+< 標準入力を切り替える (less than LT)
+>>　標準出力を切り替えて、出力先に追加する(append)
